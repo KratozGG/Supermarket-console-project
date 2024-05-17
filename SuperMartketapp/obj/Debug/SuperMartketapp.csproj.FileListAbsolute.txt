@@ -1,0 +1,9 @@
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\bin\Debug\Database1.mdf
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\bin\Debug\Database1_log.ldf
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\bin\Debug\SuperMartketapp.exe.config
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\bin\Debug\SuperMartketapp.exe
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\bin\Debug\SuperMartketapp.pdb
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\obj\Debug\SuperMartketapp.csproj.AssemblyReference.cache
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\obj\Debug\SuperMartketapp.csproj.CoreCompileInputs.cache
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\obj\Debug\SuperMartketapp.exe
+C:\Users\rkdha\Desktop\csharp\SuperMartketapp\obj\Debug\SuperMartketapp.pdb
